@@ -4,7 +4,7 @@
 
 This repository contains a collection of SQL exercises using the **Sakila** database on the **MariaDB** engine. The exercises cover: basic queries, data manipulation, joins, subqueries, DML (Data Manipulation Language), DDL (Data Definition Language), and aggregate functions.
 
-These exercises were completed as part of my **Database** course at **DSW University of Lower Silesia** (Uniwersytet Dolnośląski DSW).
+These exercises were completed as part of my **Database** course at **DSW University of Lower Silesia (Uniwersytet Dolnośląski DSW)**.
 
 ## Repository Structure
 
